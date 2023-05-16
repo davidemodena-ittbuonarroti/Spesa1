@@ -1,0 +1,8 @@
+Mese Gennaio
+Settimana 1
+Verdure: 15
+Frutta: 12
+Bevande: 40
+Pasta: 60
+Carne: 6
+Pesce: 45
