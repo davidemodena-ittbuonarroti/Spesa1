@@ -1,0 +1,7 @@
+Mese Gennaio
+
+Gas: 10€
+Luce: 20
+Acqua: 60
+Internet: 40
+Condominio: 16
